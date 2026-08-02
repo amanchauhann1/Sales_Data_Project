@@ -1,0 +1,15 @@
+{
+	"name": "sales-factoryy",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "366e985f-b83e-4237-977f-91afe9538f9b",
+		"tenantId": "360a7ec6-d0f1-4416-b833-1cd224331740"
+	}
+}
